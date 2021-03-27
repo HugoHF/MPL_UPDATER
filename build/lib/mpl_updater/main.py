@@ -73,7 +73,7 @@ def updater(name, interval=500):
 #     updater(args['program name'], args['refresh rate'])
 
 print(
-    f'Welcome to the live updater v.{version}.\nFor more information, type mpl_upater.lu(\'h\') or visit {url}')
+    f'Welcome to the live updater v.{version}.\nFor more information, type lu(\'h\') or visit {url}')
 
 
 def lu(name=None, interval=500):

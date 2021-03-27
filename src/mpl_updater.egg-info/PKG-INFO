@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: mpl-updater
+Version: 0.0.1
+Summary: A live updating environment for visualisations via Matplotlib.
+Home-page: https://github.com/HugoHF/MPL_UPDATER
+Author: Ogo Bogo
+Author-email: <ogobogo5@gmail.com>
+License: UNKNOWN
+Description: A package that allows a Matplotlib plot to be run directly from a file and then adjusts changes made in the code directly without having to restart the animation.
+Keywords: python,graphing,matplotlib,environment
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
