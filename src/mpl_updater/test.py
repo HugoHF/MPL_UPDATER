@@ -6,7 +6,7 @@ def Animation(i, ax):
     ax.plot(np.arange(len(data)), data, c="red", label="Exakt")
 
 
-data = [2, 1, 3, 0.13, 1, 20]
+data = [2, 1, 3, 13, 1, 20]
 
 
 def Initialization():
